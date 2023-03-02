@@ -1,0 +1,3 @@
+- git fetch, git checkout surname
+- git merge surname
+- git push
